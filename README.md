@@ -21,13 +21,13 @@ Packing Activity :
 • After packing display packing report.
 
 UnPacking Activity :
-• In case of UnPacking activity we accept packed file name from user.
-• Open the packed file in read mode and perform below activity as
-• Read header
-• From the name specified in header create new file.
-• Write data into newly created file from packed file.
-• Repeat all above steps till we reached at end of the file unpacked file.
-• After unpacking display unpacking report.
-Main purpose of this project is to merge large amount of files into one file by avoiding
-memory wastage.
+  • In case of UnPacking activity we accept packed file name from user.
+  • Open the packed file in read mode and perform below activity as
+  • Read header
+  • From the name specified in header create new file.
+  • Write data into newly created file from packed file.
+  • Repeat all above steps till we reached at end of the file unpacked file.
+  • After unpacking display unpacking report.
+    Main purpose of this project is to merge large amount of files into one file by avoiding
+    memory wastage.
 
